@@ -7,4 +7,13 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal Latihan 1 dalam mata kuliah DPBO
 ![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaAksi1_Add.png)
 
 ### Action 2
-![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaAksi2_Add.png)
+![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaAksi2_Edit.png)
+
+### Action 3
+![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaAksi3_Hapus.png)
+
+### Action 4
+![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaAksi4_Tabel.png)
+
+### Action 5
+![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaAksi5_Keluar.png)
