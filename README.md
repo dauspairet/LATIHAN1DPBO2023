@@ -5,18 +5,18 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal Latihan 1 dalam mata kuliah DPBO
 
 #### Data Tabel Mahasiswa
 Program ini merupakan program yang disusun untuk membuat data mahasiswa yang berupa tabel. Fitur yang dapat dipakai dalam program tabel ini, yaitu <b>menambah</b> data, <b>mengedit</b> data, <b>menghapus</b> data mahasiswa, dan <b>menampilkan</b> tabel data. Alur dalam program ini, yaitu saat program dijalankan maka akan terjadi sebuah looping yang meminta pengguna untuk memberi masukan dengan pilihan:
--'1' = menambah
--'2' = mengedit
--'3' = menghapus
--'4' = menampilkan tabel
--'5' = keluar/<i>exit</i>
+- '1' = menambah
+- '2' = mengedit
+- '3' = menghapus
+- '4' = menampilkan tabel
+- '5' = keluar/<i>exit</i>
 Program akan berhenti meminta masukan jika pengguna memilih angka '5'.
 
 Program ini disusun dengan beberapa bahasa pemrograman di antaranya, yaitu:
--C++
--Python
--Java
--PHP
+- C++
+- Python
+- Java
+- PHP
 
 ### Action 1 Add | Menambah Data
 ![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/Javaaksi1_Add.png)
