@@ -10,10 +10,10 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal Latihan 1 dalam mata kuliah DPBO
 ![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/Javaaksi2_Edit.png)
 
 ### Action 3
-![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaaksi3_Hapus.png)
+![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/Javaaksi3_Hapus.png)
 
 ### Action 4
-![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaaksi4_Tabel.png)
+![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/Javaaksi4_Tabel.png)
 
 ### Action 5
-![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/javaaksi5_Keluar.png)
+![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN1DPBO2023/main/Java/screenshot/Javaaksi5_Keluar.png)
